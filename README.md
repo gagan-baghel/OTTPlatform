@@ -1,4 +1,5 @@
 ![CINEVERSE App Screenshot](public/appScreenshot.png)
+![CINEVERSE App Screenshot 2](public/AppScreenshot2.png)
 
 # CINEVERSE OTT Platform
 

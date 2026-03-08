@@ -69,8 +69,8 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body className={`${dmSans.variable} ${syne.variable} app-shell antialiased`}>
+    <html lang="en" suppressHydrationWarning>
+      <body suppressHydrationWarning className={`${dmSans.variable} ${syne.variable} app-shell antialiased`}>
         {children}
         <Analytics />
       </body>

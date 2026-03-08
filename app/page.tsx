@@ -198,7 +198,7 @@ const exclusiveItems = [
   {
     id: 1,
     title: "Nebula Rising",
-    image: "https://images.unsplash.com/photo-1446776811953-b23d04d1ea41?q=80&w=600&h=400&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=600&h=400&auto=format&fit=crop",
     category: "Sci-Fi",
   },
   {
